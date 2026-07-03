@@ -1,21 +1,18 @@
 # QA Automation
 
-A simple Selenium automation project built using Java, TestNG, and Maven to automate the login functionality of the Bung web application.
+A simple Selenium automation project built with Java, TestNG, and Maven.
 
 ## Tech Stack
-
 - Java
-- Selenium WebDriver
+- Selenium
 - TestNG
 - Maven
 
-## Test Cases
-
-- ✅ Valid Login
-- ✅ Invalid Username
-- ✅ Invalid Password
-- ✅ Empty Username
-- ✅ Empty Password
-- ✅ Empty Username & Password
-
----
+## Features
+- Login Automation
+  - Valid Login
+  - Invalid Login
+  - Empty Fields
+- Sidebar Automation
+  - Open Sidebar
+  - Verify Menu Items
